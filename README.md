@@ -1,7 +1,7 @@
 # desafio1-conceitos-nodejs
-##Desafio GoStack sobre conteceitos do NodeJS
+## Desafio GoStack sobre conteceitos do NodeJS
 
-##Aplicação em NodeJS + ExpressJS com testes unitários.
+### Aplicação em NodeJS + ExpressJS com testes unitários.
 
 
 Aplicação criada para cumprir o desafio do GoStack
